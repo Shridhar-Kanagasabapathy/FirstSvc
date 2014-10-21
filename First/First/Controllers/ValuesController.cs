@@ -35,5 +35,10 @@ namespace First.Controllers
         public void Delete(int id)
         {
         }
+
+        // PATCH api/values/5
+        public void Patch(int id)
+        {
+        }
     }
 }
