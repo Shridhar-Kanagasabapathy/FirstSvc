@@ -40,5 +40,10 @@ namespace First.Controllers
         public void Patch(int id)
         {
         }
+
+        // PATCH api/values/5
+        public void PatchNew(int id)
+        {
+        }
     }
 }
